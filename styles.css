@@ -2,15 +2,11 @@
 :root {
 -bg-navy: #001F3F;
 
---bg-dark: #50C878;
-
---fg-light: #FFD700;
-
---fg-dark: #COCOCO;
-
---text-white: #FFFFFF;
-
---text-gray: #D3D3D3;
+--bg-light: #ffffff;
+    --bg-dark: #121212;
+    --fg-light: #222222;
+    --fg-dark: #e0e0e0;
+    --primary: #ff6347;
     --transition: 0.3s ease;
   }
   body[data-theme="light"] {
