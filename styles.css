@@ -1,10 +1,16 @@
 /* ========== BASE & VARIABLES ========== */
 :root {
-    --bg-light: #ffffff;
-    --bg-dark: #121212;
-    --fg-light: #222222;
-    --fg-dark: #e0e0e0;
-    --primary: #ff6347;
+-bg-navy: #001F3F; /* Deep Navy Blue */
+
+--bg-emerald: #50C878; /* Emerald Green */
+
+--fg-gold: #FFD700; /* Gold */
+
+--fg-silver: #COCOCO; /* Silver */
+
+--text-white: #FFFFFF; /* White */
+
+--text-gray: #D3D3D3; /* Light Gray */
     --transition: 0.3s ease;
   }
   body[data-theme="light"] {
