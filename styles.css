@@ -2,11 +2,11 @@
 :root {
 -bg-navy: #001F3F;
 
---bg-emerald: #50C878;
+--bg-dark: #50C878;
 
---fg-gold: #FFD700;
+--fg-light: #FFD700;
 
---fg-silver: #COCOCO;
+--fg-dark: #COCOCO;
 
 --text-white: #FFFFFF;
 
